@@ -1,7 +1,7 @@
 ### Flappy Bird - Harjap
 <div style="display:flex;">
-<img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake.png" width="200" height="400" />
-<img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake2.png" width="200" height="400"/>
+<img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake.png" />
+<img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake2.png" />
 </div>
 
 
@@ -11,7 +11,7 @@
   <img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/down.png" />
  ## Step 2
   Open Command line in Your PC
-  <img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/how.png" width="200" height="400"/>
+  <img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/tut.png" width="200" height="400"/>
 
 
  ## Step 3
