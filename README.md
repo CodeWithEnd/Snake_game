@@ -1,4 +1,4 @@
-### Flappy Bird - Harjap
+### Snake Game - Pankaj
 <div style="display:flex;">
 <img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake.png" />
 <img src="https://github.com/CodeWithEnd/Snake_game/blob/main/pics/snake2.png" />
